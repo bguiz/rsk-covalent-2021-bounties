@@ -1,5 +1,7 @@
 ### TODO
 
+NOTE this bounty is in draft form, notice will be removed when it is live.
+
 ### Prize Bounty
 
 0.XXX RBTC
